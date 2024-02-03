@@ -44,9 +44,9 @@ main: #简历主要内容，
   name: "专业技能"
   content:
   - title: 熟练掌握Matlab编程、PFC等数值模拟软件
-  - title: 英语
-    items: #itmems 可以小块的方式显示
-    - CET-6
+  - title: 英语 CET-6
+#    items: #itmems 可以小块的方式显示
+#    - CET-6
 
 
 - type: research direction #类别为ID
